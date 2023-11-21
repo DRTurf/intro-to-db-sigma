@@ -1,0 +1,27 @@
+1.High-level conceptual: Data is represented how it is in the real world.
+For the user.
+
+2.Record based and Logical Data Model: Easy for the user to use, and data is stored 
+how it should be in the computer.There are three types.
+
+-Relational Databases: Structured around tables, 
+using rows and columns to store and manage data. 
+
+-Hierarchical Databases: Data is organized in a tree-like structure, 
+where each record has a single parent and multiple children. 
+It's efficient for representing one-to-many relationships.
+
+-Network Databases: Similar to hierarchical databases but with more complex relationships. 
+Records can have multiple parents, enabling a more intricate structure.
+
+3.Physical data model: Data is stored,arranged and retrieved at the physical layer.
+
+4.Object-Oriented Databases: Store data as objects, allowing for complex data types, 
+methods, and inheritance, suitable for object-oriented programming.
+
+5.Centralized Databases: All data is stored in a single location or server, 
+accessible by multiple users.
+
+6.Distributed Databases: Data is distributed across multiple locations or 
+servers connected via a network. Offers benefits in scalability and fault tolerance.
+

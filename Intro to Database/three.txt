@@ -1,0 +1,27 @@
+DBMS-
+System that manages the databases.
+
+Need for DBMS:
+Data Organization: Databases provide a structured and organized way to store 
+and manage vast amounts of data. This structured format allows for efficient retrieval, 
+manipulation, and storage of information.
+
+Data Integrity: They ensure data accuracy and consistency. 
+With defined rules and constraints, databases maintain the quality 
+and reliability of the stored information.
+
+Efficient Retrieval: Databases enable quick and precise retrieval of specific data, 
+even from large datasets, by using queries and indexing methods.
+
+Concurrency and Access Control: They allow multiple users to access and 
+manipulate data concurrently while ensuring proper control over who can access, 
+modify, or delete data.
+
+Scalability: Databases can handle growing amounts of data without compromising performance. 
+They are designed to scale and accommodate increasing data volumes.
+
+Security: They offer security features like user authentication, access control mechanisms, 
+and encryption to protect sensitive data from unauthorized access or breaches.
+
+Redundancy Control: Databases help manage data redundancy, 
+minimizing duplicate data storage and ensuring consistency across records.

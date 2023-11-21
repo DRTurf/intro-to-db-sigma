@@ -1,0 +1,15 @@
+Data Integrity: They ensure data accuracy and consistency. 
+With defined rules and constraints, databases maintain the quality 
+and reliability of the stored information.
+
+Readability: Databases are easy to use.
+
+Concurrency and Access Control: They allow multiple users to access and 
+manipulate data concurrently while ensuring proper control over who can access, 
+modify, or delete data.
+
+Security: They offer security features like user authentication, access control mechanisms, 
+and encryption to protect sensitive data from unauthorized access or breaches.
+
+Redundancy Control: Databases help manage data redundancy, 
+minimizing duplicate data storage and ensuring consistency across records.
